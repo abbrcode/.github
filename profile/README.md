@@ -1,13 +1,18 @@
-![](./meta/img/title.png)
+![](../meta/img/title.png)
 
-<h2 align='center'>
+<h1 align="center">
 
-[Abbreviations in code](https://github.com/abbrcode/abbreviations-in-code) • [Discussions](https://github.com/orgs/abbrcode/discussions)
-
-</h2>
+   [Abbreviations in code](https://github.com/abbrcode/abbreviations-in-code) •
+   <a href="https://github.com/orgs/abbrcode/discussions">
+      <img src="../assets/discussions icon.png" height="30px" />
+      <span>Discussions</span>
+   </a>
+</h1>
 
 {description}
 
 <br />
 
-<small>Organization created on 2023-03-07</small>
+[Credits](../credits.md)
+
+[Other](../other.md)
