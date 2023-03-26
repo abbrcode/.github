@@ -22,7 +22,7 @@
 
 <br />
 
-![](../meta/img/abbrs.png)
+![](https://raw.githubusercontent.com/abbrcode/.github/main/meta/img/abbrs.png)
 
 {description}
 
