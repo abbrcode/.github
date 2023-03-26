@@ -22,6 +22,8 @@
 
 <br />
 
+![](../meta/img/abbrs.png)
+
 {description}
 
 <br />
