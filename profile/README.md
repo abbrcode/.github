@@ -9,19 +9,6 @@
 ![](https://raw.githubusercontent.com/abbrcode/db/main/org/title.png)
 </h1>
 
-<details>
-   <summary>Tabs</summary>
-
-   - [Repos](https://github.com/orgs/abbrcode/repositories)
-   - [Discussions](https://github.com/orgs/abbrcode/discussions)
-   - [Projects](https://github.com/orgs/abbrcode/projects)
-   - [Packages](https://github.com/orgs/abbrcode/packages)
-   - [Teams](https://github.com/orgs/abbrcode/teams)
-   - [People](https://github.com/orgs/abbrcode/people)
-</details>
-
-<br />
-
 ![](https://raw.githubusercontent.com/abbrcode/.github/main/meta/img/abbrs.png)
 
 {description}
