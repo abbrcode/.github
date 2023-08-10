@@ -11,4 +11,4 @@
    [AbbrExt](https://github.com/T1xx1/AbbrExt)
 </h1>
 
-[Other](../other.md)
+![](https://raw.githubusercontent.com/abbrcode/db/main/org/abbrs.png)
