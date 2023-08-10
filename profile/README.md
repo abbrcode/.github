@@ -1,12 +1,5 @@
 ![](https://raw.githubusercontent.com/abbrcode/db/main/org/title.png)
 
-![](https://raw.githubusercontent.com/abbrcode/.github/main/meta/img/abbrs.png)
-
-{description}
-
-<br />
-
-[Credits](../credits.md)
 <h1 align='center'>
    
    [Abbreviations in code](https://github.com/abbrcode/abbreviations-in-code)
