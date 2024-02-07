@@ -1,6 +1,6 @@
 <div align='center'>
 
-   ![](../assets/banner.png)
+   ![](https://raw.githubusercontent.com/abbrcode/.github/main/assets/banner.png)
 </div>
 
 <h1 align='center'>
