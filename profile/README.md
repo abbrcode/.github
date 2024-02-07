@@ -14,4 +14,4 @@
    [AbbrExt](https://github.com/T1xx1/AbbrExt)
 </h1>
 
-![](https://raw.githubusercontent.com/abbrcode/db/main/org/abbrs.png)
+![](https://raw.githubusercontent.com/abbrcode/.github/main/assets/abbrs.png)
