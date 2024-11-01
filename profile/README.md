@@ -15,3 +15,7 @@
 </h1>
 
 ![](https://raw.githubusercontent.com/abbrcode/.github/main/assets/graph.png)
+
+---
+
+[Design document](https://www.figma.com/design/7WcJukjny6M1tYLbgNrpfj/AbbrCode)
